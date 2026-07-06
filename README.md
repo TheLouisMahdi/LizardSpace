@@ -1,83 +1,113 @@
 <div align="center">
 
-<img src="assets/lizardspace-banner.png" alt="Lizard Space banner" width="100%" />
+<img src="assets/lizardspace-banner.svg" alt="Lizard Space banner" width="100%" />
 
 # 🦎 Lizard Space
 
-### Press a key. Hear a lizard. Question your life choices.
+### A tiny Windows sound app for your keyboard chaos.
 
 [![Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Release](https://img.shields.io/badge/Download-EXE-69df6d?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TheLouisMahdi/LizardSpace/releases/latest)
-[![Offline](https://img.shields.io/badge/Offline-100%25_Local-9b5cff?style=for-the-badge)](#)
-[![Chaos](https://img.shields.io/badge/Chaos-Certified-ff69b4?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-EXE-69df6d?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TheLouisMahdi/LizardSpace/releases/latest)
+[![Offline](https://img.shields.io/badge/Offline-Local-9b5cff?style=for-the-badge)](#)
 
 </div>
-
----
-
-## ✨ What is this?
-
-**Lizard Space** is a tiny, ridiculous, and extremely necessary Windows app that lives in the background and turns your keyboard into a miniature lizard-powered soundboard.
-
-It does not try to be useful.  
-It tries to be memorable.  
-And honestly? It succeeds.
-
----
-
-## 🎮 Key Reactions
-
-| Key action | Reaction |
-|---|---|
-| `Space` | 🦎 Plays a short **Lizard!** sound |
-| Hold `Space` | 🚀 Loops the faster lizard section |
-| Spam `Space` | 🔥 Triggers chaotic lizard mode |
-| `Enter` | 🦎 Plays a short **Lizard!** sound |
-| Hold `Enter` | ⚡ Loops the faster lizard section |
-| Spam `Enter` | 💥 Plays the 6–9 second lizard section |
-| Hold `Backspace` | 🌞 Plays **Ayaya** from `0s` to `7s` |
-
----
-
-## 🧃 Features
-
-- 🪟 **Windows background app**
-- 🦎 Space and Enter lizard reactions
-- 🌞 Long Backspace Ayaya reaction
-- 🎧 Fully offline sound playback
-- 🛸 System tray support
-- 🚀 Optional run on Windows startup
-- 🎨 Custom lizard-themed UI
-- 🔒 No account, no internet, no cloud, no nonsense
 
 ---
 
 ## 📦 Download
 
-Go to the **Releases** page and download the latest executable:
+1. Open the **Releases** page.
+2. Download the latest `LizardSpace.exe` file.
+3. Run the app.
 
 <div align="center">
 
-## 👉 [Download LizardSpace.exe](https://github.com/TheLouisMahdi/LizardSpace/releases/latest)
+## 👉 [Download latest release](https://github.com/TheLouisMahdi/LizardSpace/releases/latest)
 
 </div>
 
-After downloading, just run:
+---
 
-```text
-LizardSpace.exe
-```
+## 🎮 Controls
 
-The app will open, then you can hide it to the system tray and let the lizard silently judge your typing habits.
+| Action | Sound |
+|---|---|
+| Press `Space` | 🦎 Lizard sound |
+| Hold `Space` | 🚀 Fast lizard loop |
+| Spam `Space` | 🔥 Longer lizard reaction |
+| Press `Enter` | 🦎 Lizard sound |
+| Hold `Enter` | ⚡ Fast lizard loop |
+| Spam `Enter` | 💥 Lizard reaction from 6s to 9s |
+| Hold `Backspace` | 🌞 Ayaya sound from 0s to 7s |
 
 ---
 
-## 🛠️ Notes
+## 🪟 How to use
 
-This repository is for the **compiled Windows release** of Lizard Space.  
-The app is designed as a small personal/fun desktop utility.
+1. Launch `LizardSpace.exe`.
+2. Keep **Sound: ON** enabled.
+3. Press `Space` or `Enter` anywhere in Windows.
+4. Hold `Backspace` for the Ayaya sound.
+5. Use **Hide to System Tray** to keep it running in the background.
 
-The app listens only for these keys:
+---
+
+## 🚀 Start with Windows
+
+To make the app open automatically:
+
+1. Open the app.
+2. Enable **Run with Windows startup**.
+3. Hide it to the system tray.
+
+To disable startup, open the app again and uncheck the same option.
+
+---
+
+## 🛸 System tray
+
+When the app is hidden, use the tray icon to:
+
+- Show the app again
+- Play the lizard sound
+- Turn sound on or off
+- Open this GitHub page
+- Exit completely
+
+---
+
+## 🔇 Turn sound off
+
+Click:
+
+```text
+Sound: ON
+```
+
+It will change to:
+
+```text
+Sound: OFF
+```
+
+Click it again to turn the sound back on.
+
+---
+
+## 🧩 Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| The app does not react in some apps | Run `LizardSpace.exe` as administrator |
+| Windows warns about the file | Choose **More info** → **Run anyway** if you trust the download |
+| Sound does not play | Make sure Windows volume is not muted |
+| The app disappeared | Check the system tray near the clock |
+
+---
+
+## 🔒 Privacy
+
+The app only reacts to these keys:
 
 ```text
 Space
@@ -85,16 +115,7 @@ Enter
 Backspace
 ```
 
-It does not collect your typing, save keyboard input, or send anything anywhere.
-
----
-
-## 🦎 Why?
-
-Because sometimes software does not need to solve a global crisis.  
-Sometimes it only needs to scream **Lizard** when you press Space.
-
-And that is enough.
+It does not save text, record typing, connect to the internet, or send data anywhere.
 
 ---
 
