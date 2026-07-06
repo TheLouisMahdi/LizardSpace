@@ -125,3 +125,36 @@ It does not save text, record typing, connect to the internet, or send data anyw
 ### for my sunshine ☀️
 
 </div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+## 🌌 Tiny Philosophy
+
+### 🇬🇧 English
+
+> Because sometimes software does not need to solve a global crisis.  
+> Sometimes it only needs to scream **Lizard** when you press **Space**.  
+>  
+> And that is enough. 🦎✨
+
+<br>
+
+### 🇮🇷 فارسی
+
+> گاهی نرم‌افزار لازم نیست بحران بزرگی از جهان را حل کند؛  
+> گاهی کافی‌ست وقتی **Space** را فشار می‌دهی،  
+> صدای **Lizard** در جهان کوچک تو بپیچد.  
+>  
+> و همین کافی‌ست. 🦎🌙
+
+</td>
+</tr>
+</table>
+
+</div>
